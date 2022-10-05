@@ -1,2 +1,2 @@
 #!/bin/bash
-This is the shell basic
+This is the shell basics project which is awesome
