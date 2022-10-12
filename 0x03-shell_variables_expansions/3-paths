@@ -1,2 +1,2 @@
 #!/bin/bash
-du | sort -nr
+echo $PATH | tr -s ":" "\n" | wc -l
