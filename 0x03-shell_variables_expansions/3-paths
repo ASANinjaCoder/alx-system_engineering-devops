@@ -1,2 +1,2 @@
 #!/bin/bash
-du | sort -nr PATH
+du | sort -nr
